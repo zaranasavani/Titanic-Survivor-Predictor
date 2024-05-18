@@ -1,1 +1,2 @@
 # Titanic-Survivor-Predictor
+Titanic Survivor Predictor is a machine learning project designed to predict the survival status of passengers aboard the RMS Titanic. Leveraging historical data from the infamous maritime disaster, this project applies various data preprocessing techniques and employs a classification model to determine the likelihood of survival for each passenger based on key features such as age, gender, passenger class, and more.
